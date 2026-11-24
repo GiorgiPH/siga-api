@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Siga.Api/Siga.Api.csproj" />
+    <Project Path="src/Siga.Application/Siga.Application.csproj" />
+    <Project Path="src/Siga.Domain/Siga.Domain.csproj" />
+    <Project Path="src/Siga.Infrastructure/Siga.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Siga.Api.IntegrationTests/Siga.Api.IntegrationTests.csproj" />
+    <Project Path="tests/Siga.Application.UnitTests/Siga.Application.UnitTests.csproj" />
+    <Project Path="tests/Siga.ArchitectureTests/Siga.ArchitectureTests.csproj" />
+    <Project Path="tests/Siga.Domain.UnitTests/Siga.Domain.UnitTests.csproj" />
+  </Folder>
+</Solution>
